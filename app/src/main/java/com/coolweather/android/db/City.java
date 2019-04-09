@@ -2,6 +2,9 @@ package com.coolweather.android.db;
 
 import org.litepal.crud.DataSupport;
 
+/**
+ * 市级
+ */
 public class City extends DataSupport {
 
     private int id;
